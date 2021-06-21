@@ -1,0 +1,132 @@
+﻿'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Users\phamm\source\repos\OpenCV_ARpainter\x64\Debug\OpenCV_ARpainter.exe'. Symbols loaded.
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\opencv_world452d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\comdlg32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.844_none_423537bff6b9828c\comctl32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\concrt140d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x1404 has exited with code 0 (0x0).
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\opencv_videoio_msmf452_64d.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mf.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfreadwrite.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfcore.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ksuser.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\devenum.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msdmo.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\qcap.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\quartz.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfksproxy.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\atl.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfsensorgroup.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ksproxy.ax'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\policymanager.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msvcp110_win.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\vidcap.ax'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\Kswdmcap.ax'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\mfc42.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\qedit.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msvfw32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.928_none_faefac437613c6cc\GdiPlus.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\ddraw.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\dciman32.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdumdim64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igd9dxva64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdgmm64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdinfo64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igc64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdinfo64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igc64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igd9dxva64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdgmm64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdumdim64.dll'
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdumdim64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igd9dxva64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdgmm64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdinfo64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igc64.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdinfo64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igc64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igd9dxva64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdgmm64.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5dc194ddcb559d66\igdumdim64.dll'
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\msyuv.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\CapabilityAccessManagerClient.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'OpenCV_ARpainter.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'OpenCV_ARpainter.exe' (Win32): Loaded 'C:\Windows\System32\oleacc.dll'. 
+The thread 0x41f0 has exited with code 0 (0x0).
+The thread 0x2178 has exited with code 0 (0x0).
+The thread 0x4fc has exited with code 0 (0x0).
+The thread 0x13b8 has exited with code 0 (0x0).
+The thread 0x2d2c has exited with code 0 (0x0).
+The thread 0xa14 has exited with code 0 (0x0).
+The thread 0xc98 has exited with code 0 (0x0).
+The thread 0x1588 has exited with code 0 (0x0).
+The thread 0x2464 has exited with code 0 (0x0).
+The thread 0x2cc4 has exited with code 0 (0x0).
+The thread 0x300c has exited with code 0 (0x0).
+The thread 0x4230 has exited with code 0 (0x0).
+The thread 0x3ecc has exited with code 0 (0x0).
+The thread 0x2448 has exited with code 0 (0x0).
+The thread 0x3c48 has exited with code 0 (0x0).
+The thread 0x3374 has exited with code 0 (0x0).
+The thread 0x11b8 has exited with code 0 (0x0).
+The thread 0x3610 has exited with code 0 (0x0).
+The thread 0x2054 has exited with code 0 (0x0).
+The program '[9296] OpenCV_ARpainter.exe' has exited with code 0 (0x0).

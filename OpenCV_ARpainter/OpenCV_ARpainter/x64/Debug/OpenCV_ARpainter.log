@@ -1,0 +1,5 @@
+﻿  ProjectPainter.cpp
+C:\Users\phamm\source\repos\OpenCV_ARpainter\OpenCV_ARpainter\ProjectPainter.cpp(40,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phamm\source\repos\OpenCV_ARpainter\OpenCV_ARpainter\ProjectPainter.cpp(47,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamm\source\repos\OpenCV_ARpainter\OpenCV_ARpainter\ProjectPainter.cpp(91,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV_ARpainter.vcxproj -> C:\Users\phamm\source\repos\OpenCV_ARpainter\x64\Debug\OpenCV_ARpainter.exe
